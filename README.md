@@ -4,7 +4,7 @@
 
 Simply open up the deployed link [Weather-Dashboard](https://realstranger01.github.io/Weather-Dashboard/) and explore the website:
 
-![Weather-Dashboard](./assets/10-server-side-apis-challenge-demo.png)
+![Weather-Dashboard](./assets/weather-dashboard.png)
 
 ### Prerequisites
 
